@@ -1,0 +1,26 @@
+{
+  "name": "phishguard",
+  "version": "1.0.0",
+  "description": "PhishGuard - Fake Website & Phishing Detector",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["phishing", "cybersecurity", "security", "education"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lucide-react": "^0.562.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-router-dom": "^7.12.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.18",
+    "@vitejs/plugin-react": "^5.1.2",
+    "tailwindcss": "^4.1.18",
+    "vite": "^7.3.1"
+  }
+}
